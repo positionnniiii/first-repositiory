@@ -1,1 +1,1 @@
-# first-repositiory
+# first-repository
